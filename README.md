@@ -10,7 +10,8 @@ Currently, character compounds representing sounds that only exist in foreign wo
 
 Quite simple:
 
-require(“convertKatakana.php”;
+require(“convertKatakana.php”);
+
 convertKatakana::toEnglish([input]);
 
 For an example of usage see example.php.
